@@ -26,6 +26,7 @@ body {
   justify-content: center;
   align-items: center;
   font-family: "Bai Jamjuree", sans-serif;
+  height: 100vh;
 }
 .container {
   display: flex;
